@@ -46,7 +46,7 @@ docker push DockerHubUserName/AppName:latest
 📥 Pulling and Running the Image on Another System
 1. Pull the image:
 docker pull DockerHubUserName/AppName
-# e.g.
+e.g.
 docker pull vickypers/mycontainerizeapp
 
 2. Run the container:
